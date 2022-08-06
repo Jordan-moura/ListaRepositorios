@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#b0bec5</color>
+    <color name="primary_500">#607d8b</color>
+    <color name="primary_700">#455a64</color>
+
+    <color name="secondary_200">#eeeeee</color>
+    <color name="secondary_900">#212121</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="summer_70">#0096CC</color>
+    <color name="porcelain_70">#969CAB</color>
+    <color name="powder_blue">#c2efeb</color>
+    <color name="air_superiority_blue">#6ea4bf</color>
+    <color name="gray_20">#D5D7DE</color>
+    <color name="indigo_50">#222540</color>
+    <color name="gray_10">#F4F7FB</color>
+    <color name="orange_20">#f5b505</color>
+    <color name="alert">#EF4768</color>
+    <color name="dark_grey">#171930</color>
+    <color name="warning_yellow">#f8ba27</color>
+    <color name="rise">#2ACF8A</color>
+    <color name="gray_50">#2F313E</color>
+
+    <color name="indigo_70">#07070D</color>
+    <color name="accent_D">@color/indigo_50</color>
+    <color name="accent">@color/powder_blue</color>
+    <color name="error">@color/alert</color>
+</resources>
